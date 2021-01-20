@@ -8,7 +8,7 @@ class Main {
     //Step 2: ask user for the number to seperate students by
   
     //Step 3: Start fixed loop length of names array times
-  
+  asnu jfhajkgh 
     //Step 4: if loop counter modulus the number entered is 0 then
   
     //Step 5: display the name from the array
